@@ -8,7 +8,7 @@
 
 
 ### 👁️‍🗨️ 访客数
-![Visitor Count](https://api.codehit.io/counter/LX-HMKK)
+![Visitor Count](https://hits.seeyou.design/view/LX-HMKK?style=flat)
 <!--
 **LX-HMKK/LX-HMKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
