@@ -1,5 +1,14 @@
-## Hi there 👋
+# 👋 我是 荒谬看客
 
+### 📊 我的 GitHub 统计
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LX-HMKK&show_icons=true&theme=vue)
+
+### 💻 常用编程语言
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LX-HMKK&layout=compact&theme=vue)
+
+
+### 👁️‍🗨️ 访客数
+![Visitor Count](https://api.codehit.io/counter/LX-HMKK)
 <!--
 **LX-HMKK/LX-HMKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
