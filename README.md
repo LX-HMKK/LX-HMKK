@@ -8,7 +8,7 @@
 
 
 ### 👁️‍🗨️ 访客数
-![Visitor Count](https://profile-counter.glitch.me/LX-HMKK/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=LX-HMKK.LX-HMKK)
 <!--
 **LX-HMKK/LX-HMKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
