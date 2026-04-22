@@ -1,35 +1,30 @@
-# 👋 你好，我是 荒谬看客 (LX-HMKK)
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=LX-HMKK&label=Profile%20Views&color=42b883&style=flat-square" alt="访客数" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=0,2,2,5,30&text=LX-HMKK&fontSize=64&fontAlign=50&fontAlignY=38&desc=Absurd%20Observer%20%7C%20CV%20%7C%20Systems&descAlign=50&descAlignY=60&animation=twinkling" />
 
-> 💡 **「荒谬世界里的清醒看客」** | 热衷于计算机视觉与系统开发。
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=A970FF&center=true&vCenter=true&repeat=true&width=760&lines=Absurd+world%2C+clear+mind.;Build+it.+Break+it.+Understand+it.;CV+%7C+Systems+%7C+Debugging+the+chaos." alt="Typing SVG" />
 
----
+<br/>
 
-### 📊 个人成就与数据
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-jstoppa.vercel.app/api?username=LX-HMKK&show_icons=true&theme=vue-conf&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-master-jstoppa.vercel.app/api/top-langs/?username=LX-HMKK&layout=compact&theme=vue-conf" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=LX-HMKK&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
 
----
+</div>
 
-### 🛠️ 技术栈 (Tech Stack)
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<br/>
 
----
+<div align="center">
+  <sub>
+    荒谬世界里的清醒看客。<br/>
+    偶尔写代码，偶尔折腾视觉，偶尔和 bug 对视。
+  </sub>
+</div>
 
-### 📅 贡献活跃度
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LX-HMKK&theme=vue-conf" alt="GitHub Streak" />
-</p>
+<br/>
 
-### 📈 最近 30 天动态
-![LX-HMKK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LX-HMKK&theme=venom)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LX-HMKK/LX-HMKK/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LX-HMKK/LX-HMKK/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/LX-HMKK/LX-HMKK/output/github-snake.svg" />
+  </picture>
+</div>
